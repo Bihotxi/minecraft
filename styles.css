@@ -1,0 +1,35 @@
+ html {
+ text-align:center; 
+  }
+  body {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  background-image: url(https://k43.kn3.net/taringa/2/3/6/3/7/3/86/santyrss/61E.jpg?9248);
+  background-size: cover;
+  }
+     h1 {
+ margin: 20px 20%;
+  color: RED;
+    font-size:40px ;
+    }
+    div {
+    margin:20px;
+    }
+    .background-size {
+    width: 50%;
+    margin: auto;
+    } 
+    .font-size {
+    font-size: 30px;
+    }
+    .font-size-color {
+    font-size:30px;
+    color:white;
+    }
+    .subtitulo {
+    background-color:yellow ;
+    width: fit-content;
+    margin: 20px auto;
+    }
+  

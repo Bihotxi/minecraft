@@ -1,0 +1,15 @@
+html {
+text-align: center ;
+background-color: yellow;
+}
+h1 {
+font-size:50px;
+}
+p {
+font-size:30px;
+}
+button {
+font-size: 20px;
+margin:10px;
+}
+
